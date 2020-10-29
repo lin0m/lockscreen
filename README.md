@@ -5,4 +5,4 @@ bubbles controlled by the accelerometer. Each bubble moves at a different speed.
 is unlocked by entering a password. 
 
 The SOC communicates with the accelerometer using SPI, the temperature sensor using i2c, and 
-the keyboard using PS2. The display is connecred using VGA. 
+the keyboard using PS2. The display is connected using VGA. 
