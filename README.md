@@ -11,3 +11,5 @@ The bubbles are contolled by the FPGA's accelerometer which is communicating to 
 The temperature is retreived from the FPGA's temperature sensor which communicates to a port using i2c.
 The password is input via a keyboard connected to a I/O port using PS2. The display is connected using VGA
 and is controlled by the video subsystem. The bubble sprites are saved in the FPGA's block RAM.
+
+Please check out the video of me demoing the project!
